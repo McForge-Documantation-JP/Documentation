@@ -1,10 +1,5 @@
-# Documentation
-This is the Read the docs MinecraftForge documentation, located at http://mcforge.readthedocs.org.
+# Forge Documentation 日本語化プロジェクト
+Minecraft Forge の公式Documentationを和訳するプロジェクトです。
+現在参加して下さる方を募集しています。
 
-It is intended to provide detailed documentation of Forge development. Javadocs will not be hosted here, however. They will be located at ...
-
-The intent with this is to create a curated *definitive* source of documentation for developing mods with Forge. It is not a Java language tutorial though, and basic concepts of Java should not be part of this documentation.
-
-Feel free to submit pull requests related to documentation of Forge development here.
-
-Don't expect this to be constantly being updated, though we will try and remedy egregious errors more quickly.
+単発の提案の場合・訳が不安な場合はPull Requestで、参加して下さる場合はOrganizationに参加の上Pushでお願いします。
